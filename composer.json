@@ -1,0 +1,11 @@
+{
+    "name": "root/design-pattern",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": ""
+        }
+    },
+    "require": {}
+}
